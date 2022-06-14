@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "836244870714",
+    "firebase_url": "https://excelling-at-spelling.firebaseio.com",
+    "project_id": "excelling-at-spelling",
+    "storage_bucket": "excelling-at-spelling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836244870714:android:b4b3f16096c021f5",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.excellingatspelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836244870714-ntmsj034iv6r9o8dn8rtrfetfvt23inm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_bkfXcoRzioQIt3yfEND4XuY1AyaFd7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
